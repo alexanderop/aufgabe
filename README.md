@@ -1,32 +1,3 @@
-2. ein Api aufruf fertig mit konstem aufruf
-3. Api in frotnend einbinden mit möglichkeit für default werten
-
-
-5. Api aurfuf zum fetchen von externer api zu mysql Datenbank
-6. api aufruf der die daten dann wirklich von mysql datenbank bekommt
-
-
-
-{
-  "success":true,
-  "terms":"https:\/\/currencylayer.com\/terms",
-  "privacy":"https:\/\/currencylayer.com\/privacy",
-  "timestamp":1563725706,
-  "source":"USD",
-  "quotes":{
-    "USDEUR":0.890195,
-    "USDCHF":0.98164
-  }
-}
-
-
-
-5d8552a366e9bee39a8cf86d3cd0caa1
-
-
-git remote add origin git@github.com:alexanderop/aufgabe.git
-
-
 # aufgabe
 
 ## Backend
