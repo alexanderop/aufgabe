@@ -35,7 +35,7 @@ npm run start
 1. /api/updateCurrencyData is used to update the currency data on mysql with the help of a external api (you need a api key for this)
 2. /api/getRatesFromSql is used to get the stored table in the mysql database
 
-## Frontend
+## Frontend (currency)
 ```bash
 npm i
 npm run serve
